@@ -26,7 +26,10 @@ public class ContohChar {
 		String kata = "" + huruf1 + huruf2 + angka + simbol;
 		System.out.println("Gabungan char jadi string : " + kata);
 		
-
+		int a = 5;
+		int b = 2;
+		
+		System.out.println(a/b);
 	}
 
 }
