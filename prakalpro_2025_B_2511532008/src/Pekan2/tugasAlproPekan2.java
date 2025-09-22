@@ -16,7 +16,11 @@ public class tugasAlproPekan2 {
 		System.out.println("Batas Nilai          : " + Nilai_Batas);
 		System.out.println("Kategori Nilai       : " + Nilai_Kategori);
 		System.out.println("Lulus                : " + Lulus_Tidak);
-					
+		 int x = 5;
+		 int x2 = x - 3;
+		 
+		 System.out.println("KAPALO BANDA");	
+		 
 	}
 
 }
