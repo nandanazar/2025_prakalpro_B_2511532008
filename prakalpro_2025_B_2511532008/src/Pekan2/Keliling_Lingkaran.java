@@ -7,15 +7,6 @@ public class Keliling_Lingkaran {
 		final double PI = 3.14;
 		double radius = 30;
 			System.out.println("Keliling =" + 2 * PI * radius);
-			
-			
-			
-			
-			
-			
-			
-			
-			
 	
 		
 		}

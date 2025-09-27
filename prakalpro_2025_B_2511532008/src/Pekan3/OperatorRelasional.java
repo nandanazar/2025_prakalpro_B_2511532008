@@ -32,7 +32,8 @@ public class OperatorRelasional {
 		hasil = A1 != A2;
 		System.out.println("Apakah A1 != A2 :" + hasil);
 		
-
+		
+		
 	}
 
 }
